@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/raw/*.json
+data/processed/*.json
+!data/raw/sample_news.json

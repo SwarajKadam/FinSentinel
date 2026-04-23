@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+torch
+requests
+boto3
+python-dotenv
+pytest
+httpx

@@ -1,0 +1,18 @@
+[
+  {
+    "headline": "Tesla stock rises after strong quarterly earnings.",
+    "summary": "The company reported better than expected revenue and profit.",
+    "source": "Sample News",
+    "url": "https://example.com/tesla-earnings",
+    "datetime": 1710000000,
+    "category": "general"
+  },
+  {
+    "headline": "Bank shares fall as investors worry about loan growth.",
+    "summary": "Analysts said weaker lending demand could affect earnings next quarter.",
+    "source": "Sample News",
+    "url": "https://example.com/bank-shares",
+    "datetime": 1710003600,
+    "category": "general"
+  }
+]
