@@ -4,8 +4,8 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# API_BASE_URL = os.getenv("API_BASE_URL", "")
-API_BASE_URL="https://pi5lkn3ix6.execute-api.us-east-1.amazonaws.com"
+API_BASE_URL = os.getenv("API_BASE_URL", "")
+
 
 st.set_page_config(page_title="FinSentinel Dashboard", layout="wide")
 
